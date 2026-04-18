@@ -1,5 +1,5 @@
 ---
-title: "Carly M. Eckert, MD, MPH, DrPH"
+title: "Carly M. Eckert, MD, PhD, MPH"
 date: 2026-04-18
 draft: false
 ---
@@ -15,7 +15,7 @@ Co-Founder, Head of Innovation & Impact, Head of Responsible AI — Avante
 
 ## Bio
 
-Carly Eckert is a physician, epidemiologist, and clinical informaticist whose career sits at the intersection of healthcare AI, responsible technology development, and health system innovation. She trained as an MD, completed general surgery residency at Vanderbilt, and earned her MPH and doctorate (DrPH) in Epidemiology at the University of Washington.
+Carly Eckert is a physician, epidemiologist, and clinical informaticist whose career sits at the intersection of healthcare AI, responsible technology development, and health system innovation. She trained as an MD, completed general surgery residency at Vanderbilt, and earned her MPH and PhD in Epidemiology at the University of Washington.
 
 At VUMC, Carly is an Assistant Research Professor in the Department of Surgery, where she collaborates with clinical, operational, and technical stakeholders to design and evaluate digital and data-enabled solutions for care delivery, clinical workflows, and system performance. Her academic focus is **translational informatics** — bridging clinical need, data infrastructure, governance, and implementation science to make innovation effective and durable.
 
@@ -70,7 +70,7 @@ Carly's scholarly work has advanced three intersecting areas:
 
 ## Academic Credentials
 
-- **DrPH, Epidemiology** — [University of Washington](https://sph.washington.edu/), 2023
+- **PhD, Epidemiology** — [University of Washington](https://sph.washington.edu/), 2023
 - **Fellowship, Occupational & Preventive Medicine** — University of Washington, 2015
 - **MPH, Epidemiology** — University of Washington, 2014
 - **MD** — [University of Oklahoma Health Sciences Center](https://www.ouhsc.edu/), 2009

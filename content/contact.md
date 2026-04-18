@@ -44,7 +44,7 @@ Nashville, Tennessee
 
 - [Kevin W. Sexton, MD, FACS](/team/kevin-sexton/) — kevin.sexton@vumc.org
 - [Keith L. Obstein, MD, MPH](/team/keith-obstein/)
-- [Carly M. Eckert, MD, MPH, DrPH](/team/carly-eckert/)
+- [Carly M. Eckert, MD, PhD, MPH](/team/carly-eckert/)
 - [Adria Abella Villafranca](/team/adria-abella-villafranca/)
 
 ---

@@ -16,7 +16,7 @@ AI-powered adaptive learning platform for medical education. Licensed from VUMC.
 **Leadership:**
 - [Kevin W. Sexton, MD, FACS](/team/kevin-sexton/) — CEO & Co-Founder
 - [Keith L. Obstein, MD, MPH](/team/keith-obstein/) — Chief Medical Education Officer & Board Chairman
-- [Carly M. Eckert, MD, MPH, DrPH](/team/carly-eckert/) — Chief Operating Officer
+- [Carly M. Eckert, MD, PhD, MPH](/team/carly-eckert/) — Chief Operating Officer
 - [Adria Abella Villafranca](/team/adria-abella-villafranca/) — Chief Technology Officer
 - Jonathan Barnes — Fractional Chief Revenue Officer (via [WorkHeartily](https://www.workheartily.com/))
 - Deb Sexton — Controller
