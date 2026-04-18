@@ -6,6 +6,11 @@ paginate = 10
 
 [params]
   author = "Kevin W. Sexton, MD, FACS"
+
+  [params.label]
+    text = ""
+    icon = "img/logo.png"
+    iconHeight = 45
   description = "Knowledge Engineering & Validation for AI in Medicine — Vanderbilt University Medical Center"
   ShowReadingTime = false
   ShowShareButtons = false
