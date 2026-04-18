@@ -9,7 +9,7 @@ Assistant Research Professor, Department of Surgery, [Vanderbilt University Medi
 Adjunct Associate Professor, [Pratt School of Engineering, Duke University](https://pratt.duke.edu/)
 Co-Founder, Head of Innovation & Impact, Head of Responsible AI — Avante
 
-[LinkedIn](https://www.linkedin.com/) • [ORCID](https://orcid.org/)
+[LinkedIn](https://www.linkedin.com/in/carlyeckert-md/) • [ORCID](https://orcid.org/0009-0008-2720-4587)
 
 ---
 

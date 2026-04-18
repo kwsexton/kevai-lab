@@ -10,7 +10,7 @@ Director, [Center for Experiential Learning and Assessment (CELA)](https://medsc
 Professor of Medicine and Professor of Mechanical Engineering, Vanderbilt University
 Director, [Science and Technology of Robotics in Medicine (STORM) Lab USA](https://www.storm-lab.org/)
 
-[ORCID: 0000-0001-8654-7290](https://orcid.org/0000-0001-8654-7290) • [STORM Lab](https://www.storm-lab.org/) • [Vanderbilt Profile](https://www.vumc.org/)
+[ORCID: 0000-0001-8654-7290](https://orcid.org/0000-0001-8654-7290) • [LinkedIn](https://www.linkedin.com/in/keith-obstein-md-mph/) • [STORM Lab](https://www.storm-lab.org/) • [Vanderbilt Profile](https://www.vumc.org/)
 
 ---
 
