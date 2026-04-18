@@ -1,0 +1,53 @@
+baseURL = 'https://kev.ai/'
+languageCode = 'en-us'
+title = 'KEV.AI Lab'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  author = "Kevin W. Sexton, MD, FACS"
+  description = "Knowledge Engineering & Validation for AI in Medicine — Vanderbilt University Medical Center"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  disableThemeToggle = false
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "KEV.AI Lab"
+    Content = "Knowledge Engineering & Validation for AI in medicine. We build the methods that make medical expertise computable — and trustworthy.\n\nBased in the [Section of Surgical Sciences](https://www.vumc.org/surgical-sciences/) and the [Department of Biomedical Informatics](https://www.vumc.org/dbmi/) at [Vanderbilt University Medical Center](https://www.vumc.org/)."
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 20
+[[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 30
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 40
+[[menu.main]]
+  name = "Partners"
+  url = "/partners/"
+  weight = 50
+[[menu.main]]
+  name = "News"
+  url = "/news/"
+  weight = 60
+[[menu.main]]
+  name = "Join"
+  url = "/join/"
+  weight = 70
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 80
