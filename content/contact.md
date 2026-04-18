@@ -51,7 +51,7 @@ Nashville, Tennessee
 
 ## Social & Professional Profiles
 
-- Kev Sexton — [LinkedIn](https://www.linkedin.com/in/kevinwsextonmd/) • [ORCID](https://orcid.org/) • [Google Scholar](https://scholar.google.com/) • [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW)
+- Kev Sexton — [LinkedIn](https://www.linkedin.com/in/kwsexton/) • [ORCID](https://orcid.org/0000-0002-1460-9867) • [Google Scholar](https://scholar.google.com/citations?user=5xh98oIAAAAJ&hl=en&inst=747703087653483262) • [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW)
 - Keith Obstein — [ORCID](https://orcid.org/0000-0001-8654-7290) • [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Obstein+KL) • [STORM Lab](https://www.storm-lab.org/)
 - Adria Abella Villafranca — [ORCID](https://orcid.org/0000-0003-1503-2163)
 

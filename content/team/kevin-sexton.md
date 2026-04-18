@@ -9,7 +9,7 @@ Professor of Surgery and Biomedical Informatics, [Vanderbilt University Medical 
 Helen and Nicholas Abumrad Director | Vice Chair for Innovation, [Section of Surgical Sciences](https://www.vumc.org/surgical-sciences/)
 CEO & Co-Founder, [SchoolMe](https://www.schoolme.me)
 
-kevin.sexton@vumc.org • [LinkedIn](https://www.linkedin.com/in/kevinwsextonmd/) • [ORCID](https://orcid.org/0000-0003-1820-9627) • [Google Scholar](https://scholar.google.com/)
+kevin.sexton@vumc.org • [LinkedIn](https://www.linkedin.com/in/kwsexton/) • [ORCID](https://orcid.org/0000-0002-1460-9867) • [Google Scholar](https://scholar.google.com/citations?user=5xh98oIAAAAJ&hl=en&inst=747703087653483262)
 
 ---
 
@@ -45,7 +45,7 @@ Named inventor on **17 issued and pending patents** spanning medical devices, di
 - [U.S. Department of Commerce](https://www.commerce.gov/) — Arkansas Collaborative for Technological and Innovative Venture Equality (ACTIVE, $3.75M; PI)
 - Prior PI/Co-PI roles with SAMHSA, HRSA, DOD, and NIH NCATS totaling $30M+
 
-Full publication list on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW) and [Google Scholar](https://scholar.google.com/).
+Full publication list on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW) and [Google Scholar](https://scholar.google.com/citations?user=5xh98oIAAAAJ&hl=en&inst=747703087653483262).
 
 ---
 

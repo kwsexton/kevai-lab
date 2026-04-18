@@ -6,7 +6,7 @@ draft: false
 
 A selection of recent work from KEV.AI Lab members, organized by research theme. Full publication lists are maintained by each team member — links provided.
 
-For Kev Sexton: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW) • [Google Scholar](https://scholar.google.com/)
+For Kev Sexton: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+KW) • [Google Scholar](https://scholar.google.com/citations?user=5xh98oIAAAAJ&hl=en&inst=747703087653483262)
 For Keith Obstein: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Obstein+KL) • [ORCID](https://orcid.org/0000-0001-8654-7290)
 For Carly Eckert: [Google Scholar](https://scholar.google.com/)
 For Adria Abella Villafranca: [ORCID](https://orcid.org/0000-0003-1503-2163)
