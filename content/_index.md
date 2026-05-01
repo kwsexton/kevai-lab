@@ -40,6 +40,7 @@ See the [Team →](/team/)
 
 ## Latest
 
+- **SchoolMe places 2nd at Discover AI 2026** — Annika Coleman and Logan Pasquariello earn Certificate of Achievement at VALIANT Demo Competition — [full story](/news/discover-ai-2026/)
 - **SchoolMe × American College of Surgeons** educational program partnership in development — [read more](/news/)
 - **ARPA-H Democratized AI-Guided Chart Abstraction** platform (BRIM Analytics) — [project page](/research/#brim-analytics)
 - **Rockefeller Bellagio Center EOI** submitted on multimodal AI and global healthcare workforce training
