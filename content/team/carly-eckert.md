@@ -4,7 +4,6 @@ date: 2026-04-18
 draft: false
 ---
 
-**Chief Operating Officer, [SchoolMe](https://www.schoolme.me)**
 Assistant Research Professor, Department of Surgery, [Vanderbilt University Medical Center](https://www.vumc.org/)
 Adjunct Associate Professor, [Pratt School of Engineering, Duke University](https://pratt.duke.edu/)
 Co-Founder, Head of Innovation & Impact, Head of Responsible AI — Avante
@@ -85,4 +84,4 @@ Carly's scholarly work has advanced three intersecting areas:
 
 ## Role in the KEV.AI Lab
 
-As Chief Operating Officer of SchoolMe and the lab's senior voice on responsible AI, Carly leads governance, product strategy, and evaluation work that sits at the heart of the lab's validation mission. Her career-long commitment to translating responsible AI from abstract principles into operational models is directly aligned with the lab's core thesis: that medical AI must be rigorous, auditable, and trustworthy by design.
+As the lab's senior voice on responsible AI, Carly leads governance, product strategy, and evaluation work that sits at the heart of the lab's validation mission. Her career-long commitment to translating responsible AI from abstract principles into operational models is directly aligned with the lab's core thesis: that medical AI must be rigorous, auditable, and trustworthy by design.

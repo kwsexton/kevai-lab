@@ -14,7 +14,7 @@ The KEV.AI Lab brings together clinicians, engineers, and operators who build �
 
 - **[Keith L. Obstein, MD, MPH](/team/keith-obstein/)** — Chief Medical Education Officer & Board Chairman, SchoolMe. Professor of Medicine and Mechanical Engineering, Vanderbilt. Director, STORM Lab and CELA.
 
-- **[Carly M. Eckert, MD, PhD, MPH](/team/carly-eckert/)** — Chief Operating Officer, SchoolMe. Assistant Research Professor of Surgery, VUMC. Adjunct Associate Professor, Duke Pratt School of Engineering.
+- **[Carly M. Eckert, MD, PhD, MPH](/team/carly-eckert/)** — Assistant Research Professor of Surgery, VUMC. Adjunct Associate Professor, Duke Pratt School of Engineering. Head of Responsible AI, Avante.
 
 - **[Adria Abella Villafranca](/team/adria-abella-villafranca/)** — Chief Technology Officer, SchoolMe. Researcher, Department of Surgery, VUMC. Mechanical engineer and signal processing specialist.
 
