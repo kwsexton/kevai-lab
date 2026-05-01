@@ -10,6 +10,9 @@ Recent highlights from the KEV.AI Lab and its members.
 
 ## 2026
 
+### April 2026 — SchoolMe Places 2nd at Discover AI Demo Competition
+Annika Coleman and Logan Pasquariello presented SchoolMe at the Vanderbilt VALIANT Discover AI 2026 Demo Competition — placing **2nd place** and earning a Certificate of Achievement from VALIANT Director Bennett Landman. [Full story and photos →](/news/discover-ai-2026/)
+
 ### May 2026 — AMCAIM Podcast Appearance
 Kev Sexton joins Dr. Mel Speisman on the AMCAIM podcast to discuss AI in medical education and the SchoolMe platform.
 
