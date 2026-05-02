@@ -24,6 +24,9 @@ paginate = 10
     Title = "KEV.AI Lab"
     Content = "Knowledge Engineering & Validation for AI in medicine. We build the methods that make medical expertise computable — and trustworthy.\n\nBased in the [Section of Surgical Sciences](https://www.vumc.org/surgical-sciences/) and the [Department of Biomedical Informatics](https://www.vumc.org/dbmi/) at [Vanderbilt University Medical Center](https://www.vumc.org/)."
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[menu.main]]
   name = "About"
   url = "/about/"
