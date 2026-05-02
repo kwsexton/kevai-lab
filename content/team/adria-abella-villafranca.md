@@ -4,7 +4,7 @@ date: 2026-04-18
 draft: false
 ---
 
-**Chief Technology Officer, [SchoolMe](https://www.schoolme.me)**
+**Chief Technology Officer, [SchoolMe](https://schoolme.me)**
 Researcher, Department of Surgery, [Vanderbilt University Medical Center](https://www.vumc.org/)
 
 [ORCID: 0000-0003-1503-2163](https://orcid.org/0000-0003-1503-2163) • [LinkedIn](https://www.linkedin.com/in/adria-abella-villafranca-4a1071120/)

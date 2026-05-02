@@ -89,5 +89,5 @@ A sampling of invited talks by lab members. Full lists on individual bio pages.
 For ongoing updates:
 
 - Kev Sexton on [LinkedIn](https://www.linkedin.com/in/kwsexton/)
-- SchoolMe at [schoolme.me](https://www.schoolme.me)
+- SchoolMe at [schoolme.me](https://schoolme.me)
 - STORM Lab (K. Obstein) at [storm-lab.org](https://www.storm-lab.org/)

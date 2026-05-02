@@ -21,7 +21,7 @@ kevin.sexton@vumc.org
 
 ### SchoolMe (medical education AI platform)
 kevin@schoolme.me
-[schoolme.me](https://www.schoolme.me)
+[schoolme.me](https://schoolme.me)
 
 ### Media & speaking engagements
 kevin.sexton@vumc.org

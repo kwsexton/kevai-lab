@@ -41,7 +41,7 @@ Crosscutting both themes: the organizational, regulatory, and sociotechnical inf
 An AI-powered adaptive learning platform for medical education, built on foundation models and licensed from VUMC. SchoolMe operationalizes the lab's AI-in-education research as a commercial platform serving medical societies, health systems, and learners directly.
 
 - **Current partnerships:** [American College of Surgeons](https://www.facs.org/) educational program (in development); [ChenMed](https://www.chenmed.com/) PDV coaching simulator (active)
-- **Platform:** [schoolme.me](https://www.schoolme.me)
+- **Platform:** [schoolme.me](https://schoolme.me)
 - **Lab role:** Origin, research partner, and primary translational outlet for AI-in-education work.
 
 ### BRIM Analytics {#brim-analytics}

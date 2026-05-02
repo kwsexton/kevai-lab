@@ -7,7 +7,7 @@ draft: false
 **Director, KEV.AI Lab**
 Professor of Surgery and Biomedical Informatics, [Vanderbilt University Medical Center](https://www.vumc.org/)
 Helen and Nicholas Abumrad Director | Vice Chair for Innovation, [Section of Surgical Sciences](https://www.vumc.org/surgical-sciences/)
-CEO & Co-Founder, [SchoolMe](https://www.schoolme.me)
+CEO & Co-Founder, [SchoolMe](https://schoolme.me)
 
 kevin.sexton@vumc.org • [LinkedIn](https://www.linkedin.com/in/kwsexton/) • [ORCID](https://orcid.org/0000-0002-1460-9867) • [Google Scholar](https://scholar.google.com/citations?user=5xh98oIAAAAJ&hl=en&inst=747703087653483262)
 
@@ -29,7 +29,7 @@ Kev has a track record of building and exiting deep-tech healthcare companies:
 
 - **[CredenceHealth](https://www.prnewswire.com/news-releases/midas-healthcare-solutions-acquires-credencehealth-215195041.html)** — Predictive software for surgical complications. Commercialized as Midas+ Live™, acquired by [Xerox/ACS](https://www.news.xerox.com/).
 - **Venous Waveform Monitoring** — Novel peripheral venous pressure monitoring technology. Licensed to [Baxter International](https://www.baxter.com/).
-- **[SchoolMe](https://www.schoolme.me)** — AI-powered adaptive learning for medical education. Active enterprise partnerships with ACS and ChenMed; additional partnerships in development.
+- **[SchoolMe](https://schoolme.me)** — AI-powered adaptive learning for medical education. Active enterprise partnerships with ACS and ChenMed; additional partnerships in development.
 
 Named inventor on **17 issued and pending patents** spanning medical devices, digital health, and AI. [Patent portfolio on Lens.org](https://www.lens.org/lens/search/patent/list?q=kevin+sexton).
 

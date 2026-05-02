@@ -4,7 +4,7 @@ date: 2026-04-18
 draft: false
 ---
 
-**Chief Medical Education Officer & Board Chairman, [SchoolMe](https://www.schoolme.me)**
+**Chief Medical Education Officer & Board Chairman, [SchoolMe](https://schoolme.me)**
 Assistant Dean for Simulation in Medical Education, [Vanderbilt University Medical Center](https://www.vumc.org/)
 Director, [Center for Experiential Learning and Assessment (CELA)](https://medschool.vanderbilt.edu/)
 Professor of Medicine and Professor of Mechanical Engineering, Vanderbilt University
@@ -26,7 +26,7 @@ As **Director of CELA** and **Assistant Dean for Simulation in Medical Education
 
 ## Entrepreneurial & Innovation Track Record
 
-- **Co-Founder, Board Chairman & Chief Medical Education Officer, [SchoolMe](https://www.schoolme.me)** — AI-enabled, competency-based educational platform that applies ACGME milestone frameworks to identify and close learner gaps across cognitive, technical, and professional domains.
+- **Co-Founder, Board Chairman & Chief Medical Education Officer, [SchoolMe](https://schoolme.me)** — AI-enabled, competency-based educational platform that applies ACGME milestone frameworks to identify and close learner gaps across cognitive, technical, and professional domains.
 - **Magnetic Flexible Endoscope** — First-in-human clinical trial completed 2025. ([Obstein et al, *Am J Gastroenterol*, 2025](https://pubmed.ncbi.nlm.nih.gov/40493944/))
 - **Innovator of the Year Award**, Vanderbilt University Medical Center (2023)
 - **Medica KUKA Innovation Award** (2019)
