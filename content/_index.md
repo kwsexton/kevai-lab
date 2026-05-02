@@ -4,6 +4,10 @@ date: 2026-04-18
 draft: false
 ---
 
+<div style="text-align:center; margin: 2rem 0 2.5rem;">
+  <img src="/img/kev-ai-lockup-horizontal-dark.png" alt="KEV.AI Lab" style="max-width: 560px; width: 100%; border-radius: 8px;">
+</div>
+
 ## What We Do
 
 Medical AI is easy to demo and hard to trust. The KEV.AI Lab works the gap in between.
