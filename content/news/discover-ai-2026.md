@@ -6,17 +6,19 @@ draft: false
 
 SchoolMe earned **2nd place** at the [Vanderbilt VALIANT](https://www.vanderbilt.edu/vise/) Discover AI 2026 Demo Competition, presented by Annika Coleman and Logan Pasquariello.
 
-![Certificate of Achievement — 2nd Place, Discover AI Demo Competition](/img/news/discover-ai-certificate.jpeg)
-
 The judges' citation:
 
 > *"SchoolMe brings the same sense of immediacy to medical education. By transforming continuing education into short, adaptive, case-based experiences, the platform meets clinicians where they are — delivering personalized learning that evolves with their needs while generating insights that scale across organizations."*
 
 ---
 
-![SchoolMe demo at Discover AI 2026](/img/news/discover-ai-demo.jpeg)
+![SchoolMe at Discover AI 2026](/img/news/discover-ai-photo1.jpg)
 
-![Discover AI 2026 event](/img/news/discover-ai-venue.jpeg)
+![SchoolMe demo at Discover AI 2026](/img/news/discover-ai-photo2.jpg)
+
+![Discover AI 2026](/img/news/discover-ai-photo3.jpg)
+
+![Discover AI 2026](/img/news/discover-ai-photo4.jpeg)
 
 ---
 
