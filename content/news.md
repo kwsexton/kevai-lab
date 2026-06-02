@@ -23,7 +23,7 @@ Kev plans to apply to the [Society of University Surgeons](https://www.susweb.or
 Lab members present at [SAGES](https://www.sages.org/) in Tampa, including "Smart and Safe: Bringing AI on Board" (invited, K. Sexton).
 
 ### February 2026 — Rockefeller Bellagio Center EOI
-Expression of Interest submitted with [Kyla Terhune, MD](https://www.facs.org/) (SVP Education, American College of Surgeons) for a project on multimodal AI and global healthcare workforce training.
+Expression of Interest submitted for a project on multimodal AI and global healthcare workforce training.
 
 ### February 2026 — Academic Surgical Congress
 [20th Annual Academic Surgical Congress](https://www.academicsurgicalcongress.org/) — lab-affiliated presentations on preoperative optimization and other work.

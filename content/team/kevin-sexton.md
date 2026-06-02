@@ -17,7 +17,7 @@ kevin.sexton@vumc.org • [LinkedIn](https://www.linkedin.com/in/kwsexton/) • 
 
 Kevin Sexton is a trauma and acute care surgeon, board-certified clinical informaticist, and healthcare AI entrepreneur. He directs the KEV.AI Lab at VUMC, where he leads research at the intersection of surgery, clinical informatics, and artificial intelligence, and serves as Vice Chair for Innovation in the Section of Surgical Sciences.
 
-As CEO of SchoolMe, he builds adaptive AI-powered learning platforms for medical education, currently deployed with partners including the [American College of Surgeons](https://www.facs.org/) and [ChenMed](https://www.chenmed.com/). SchoolMe is licensed from VUMC and is the translational outlet for the lab's AI-in-education research.
+As CEO of SchoolMe, he builds adaptive AI-powered learning platforms for medical education, currently deployed with partners including [ChenMed](https://www.chenmed.com/). SchoolMe is licensed from VUMC and is the translational outlet for the lab's AI-in-education research.
 
 Kev moved to Vanderbilt in October 2024 to scale this work at one of the top academic medical centers in the United States. Before VUMC, he served as Associate Chief Medical Informatics Officer at the [University of Arkansas for Medical Sciences](https://uams.edu/), where his portfolio covered innovation, research, entrepreneurship, and all enterprise EMR integrations and software negotiations — including Doximity's first Epic Dialer integration. He subsequently served as President and Director of [BioVentures LLC](https://bioventures.uams.edu/), the UAMS technology transfer office.
 
@@ -29,7 +29,7 @@ Kev has a track record of building and exiting deep-tech healthcare companies:
 
 - **[CredenceHealth](https://www.prnewswire.com/news-releases/midas-healthcare-solutions-acquires-credencehealth-215195041.html)** — Predictive software for surgical complications. Commercialized as Midas+ Live™, acquired by [Xerox/ACS](https://www.news.xerox.com/).
 - **Venous Waveform Monitoring** — Novel peripheral venous pressure monitoring technology. Licensed to [Baxter International](https://www.baxter.com/).
-- **[SchoolMe](https://schoolme.me)** — AI-powered adaptive learning for medical education. Active enterprise partnerships with ACS and ChenMed; additional partnerships in development.
+- **[SchoolMe](https://schoolme.me)** — AI-powered adaptive learning for medical education. Active enterprise partnerships with ChenMed; additional partnerships in development.
 
 Named inventor on **17 issued and pending patents** spanning medical devices, digital health, and AI. [Patent portfolio on Lens.org](https://www.lens.org/lens/search/patent/list?q=kevin+sexton).
 
@@ -72,7 +72,7 @@ Full publication list on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sexton+K
 - [American Hernia Society](https://americasherniasociety.org/) — Grants Committee, Center of Excellence Designation Committee, Conflict of Interest Committee
 - Reviewer, [National Science Foundation Digital Health Study Section](https://www.nsf.gov/)
 - Selection Committee, [VentureWell Biomedical Innovation](https://venturewell.org/) (since 2013)
-- Fellow, [American College of Surgeons](https://www.facs.org/)
+
 
 ---
 

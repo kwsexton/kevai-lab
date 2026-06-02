@@ -40,7 +40,7 @@ Crosscutting both themes: the organizational, regulatory, and sociotechnical inf
 
 An AI-powered adaptive learning platform for medical education, built on foundation models and licensed from VUMC. SchoolMe operationalizes the lab's AI-in-education research as a commercial platform serving medical societies, health systems, and learners directly.
 
-- **Current partnerships:** [American College of Surgeons](https://www.facs.org/) educational program (in development); [ChenMed](https://www.chenmed.com/) PDV coaching simulator (active)
+- **Current partnerships:** [ChenMed](https://www.chenmed.com/) PDV coaching simulator (active)
 - **Platform:** [schoolme.me](https://schoolme.me)
 - **Lab role:** Origin, research partner, and primary translational outlet for AI-in-education work.
 
@@ -73,7 +73,7 @@ AI-guided chart abstraction for clinical registries, funded by [ARPA-H](https://
 
 ## Exploratory & Emerging Work
 
-- **Rockefeller Bellagio Center EOI** — Multimodal AI and global healthcare workforce training (submitted with [Kyla Terhune](https://www.facs.org/), SVP Education, American College of Surgeons).
+- **Rockefeller Bellagio Center EOI** — Multimodal AI and global healthcare workforce training.
 - **Auditable AI memory infrastructure** — Joint exploration with [amotivv](https://amotivv.com) on Memory Pod Fabric (MPF) for cryptographically auditable AI-assisted clinical trial enrollment, targeting the LITES Network.
 - **Venous waveform monitoring** — Continuing translational program on peripheral venous pressure for hemorrhage and dehydration detection; technology licensed to [Baxter International](https://www.baxter.com/).
 
